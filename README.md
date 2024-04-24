@@ -56,3 +56,22 @@ desplazarse:
 Escriba un programa que reciba como entrada las posiciones en el tablero de un alfil y de
 una torre, e indique cuál pieza captura a la otra:
 
+## Ejercicio 11 Enunciado
+Piedra, papel y tijera. En cada ronda del juego del cachipún, los dos competidores
+deben elegir entre jugar tijera, papel o piedra.
+Las reglas para decidir quién gana la ronda son: tijera le gana a papel, papel le gana a
+piedra, piedra le gana a tijera, y todas las demás combinaciones son empates.
+El ganador del juego es el primero que gane tres rondas.
+Escriba un programa que pregunte a cada jugador cuál es su jugada, muestre cuál es el
+marcador después de cada ronda, y termine cuando uno de ellos haya ganado tres
+rondas. Los jugadores deben indicar su jugada escribiendo tijera, papel o piedra
+
+## Ejercicio 12 Enunciado
+
+## Ejercicio 13 Enunciado
+
+## Ejercicio 14 Enunciado
+
+## Ejercicio 15 Enunciado
+
+## Ejercicio 16 Enunciado
