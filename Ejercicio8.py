@@ -16,9 +16,9 @@ def pagoProducto(precio,tipoProducto):
     vuelto(precio,totalPagado,tipoProducto)
 
 def vuelto(precio,totalPagado,tipoProducto):
-    print("Vuelto de la compra del Producto",tipoProducto);
     resto= -1;
     if totalPagado > precio :
+        print("Vuelto de la compra del Producto",tipoProducto);
         resto = totalPagado - precio;
         while resto !=0:
             if resto >= 100:
